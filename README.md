@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Endless Math! Check out the repository with the matching name for more details
+- 🌱 I’m currently learning PHP, SQLAlchemy.
+- 🤔 I’m looking for help with getting my career in software development going
+- 💬 Ask me about my cats, yours or my favourite films/movies. If im not working, im likely binging Netflix.
+- 📫 How to reach me: email me at amilaansari@gmail.com
+- 😄 Pronouns: she/her are good 
+- ⚡ Fun facts: Studied in beautiful melbourne and have two wonderful cats. Hoping to return someday :heart:
