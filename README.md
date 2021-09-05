@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Endless Math! Check out the repository with the matching name for more details
-- 🌱 I’m currently learning PHP, SQLAlchemy.
-- 🤔 I’m looking for help with getting my career in software development going
-- 💬 Ask me about my cats, yours or my favourite films/movies. If im not working, im likely binging Netflix.
-- 📫 How to reach me: email me at amilaansari@gmail.com
-- 😄 Pronouns: she/her are good 
-- ⚡ Fun facts: Studied in beautiful melbourne and have two wonderful cats. Hoping to return someday :heart:
+- 🔭 I’m currently working on: Endless Math! Check out the repository with the matching name for more details
+- 🌱 I’m currently learning: PHP, SQLAlchemy. Looking to hop into Java next!
+- 🤔 I’m looking for help with: Getting my career in software development going! Seems like there is always more to learn, which is equal parts exciting and nerve wracking. 
+- 💬 Ask me about: My cats! Yours or my favourite films/movies. If im not working, im likely binging Netflix 😮
+- 📫 How to reach me: Email me at amilaansari@gmail.com
+- 😄 Pronouns: She/her are good 👍
+- ⚡ Fun facts: Studied in the beautiful Melbourne and have two wonderful cats. Hoping to return someday ❤️
