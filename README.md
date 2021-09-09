@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Endless Math! Check out the repository with the matching name for more details
 - 🌱 I’m currently learning: C#, C++, PHP, SQLAlchemy. Looking to hop into Java next! Or maybe learning to make mods?
-- 🤔 I’m looking for help with: Getting my career in software development going! Seems like there is always more to learn, which is equal parts exciting and nerve wracking. 
+- 🤔 I’m looking for help with: Getting my career in software development going! Seems like there is always more to learn, which is equal parts exciting and nerve wracking. Wish to take a look at my resume? Drop me an email, see below
 - 💬 Ask me about: My cats! Yours or my favourite films/movies. If im not working, im likely binging Netflix 😮
 - 📫 How to reach me: Email me at amilaansari@gmail.com
 - 😄 Pronouns: She/her are good 👍
